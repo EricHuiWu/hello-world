@@ -9,3 +9,5 @@ and it will be my big pleasure if i can get friends here in GitHub!!
 By the way, I'm a Chinese student studying in Japan's university as a ship engineering Master!
 
 If you like Kanji characters, contact with me!
+
+Bye!
