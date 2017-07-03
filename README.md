@@ -1,7 +1,7 @@
 # hello-world
 a testing repository
 
-Hi, residents in the earth!
+Hi, residents in the earth! Yeah!
 
 Eric here, I like talking jokes and do some ball games like ..er..
 OKay! Let' s forget ball games! I have to admit programming is my favorite thing, 
